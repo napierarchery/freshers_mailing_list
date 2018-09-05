@@ -1,5 +1,6 @@
 # Napier Archery Freshers Mailing List
-[![Napier Archery](https://napierarchery.github.io/napierarchery.github.io/img/logo/Rnuac-logoSM.png)](https://nodesource.com/products/nsolid)
+[![Napier Archery](https://napierarchery.github.io/napierarchery.github.io/img/logo/Rnuac-logoSM.png)](https://nodesource.com/products/nsolid)  
+
 NUAC freshers mailing list software allows for rapid and accurate collection of user data and export to gmail.
 
   - Collects user's Name, Matriculation number, Personal email (if selected)
@@ -12,7 +13,7 @@ NUAC freshers mailing list software allows for rapid and accurate collection of 
 
 
 ### How To Use
-## A practice run is recommended to ensure everything works as intended when required.
+#### A practice run is recommended to ensure everything works as intended when required.
 - 1 - Download Zip folder of program from https://github.com/napierarchery/freshers_mailing_list
 - 2 - Extract contents from Zip folder. To find executable program, go to \freshers_mailing_list\NUAC Freshers Mailing List\bin\Debug.
 - 3 - Run the Executable program: NUAC Freshers Mailing List.exe
